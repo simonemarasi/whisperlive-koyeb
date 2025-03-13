@@ -1,0 +1,7 @@
+faster-whisper
+uvicorn
+fastapi
+pydub
+websockets
+numpy
+torch
